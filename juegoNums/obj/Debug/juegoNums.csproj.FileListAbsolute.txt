@@ -1,0 +1,10 @@
+C:\Users\A1\source\repos\juegoNums\juegoNums\bin\Debug\juegoNums.exe.config
+C:\Users\A1\source\repos\juegoNums\juegoNums\bin\Debug\juegoNums.exe
+C:\Users\A1\source\repos\juegoNums\juegoNums\bin\Debug\juegoNums.pdb
+C:\Users\A1\source\repos\juegoNums\juegoNums\obj\Debug\juegoNums.csproj.AssemblyReference.cache
+C:\Users\A1\source\repos\juegoNums\juegoNums\obj\Debug\juegoNums.Form1.resources
+C:\Users\A1\source\repos\juegoNums\juegoNums\obj\Debug\juegoNums.Properties.Resources.resources
+C:\Users\A1\source\repos\juegoNums\juegoNums\obj\Debug\juegoNums.csproj.GenerateResource.cache
+C:\Users\A1\source\repos\juegoNums\juegoNums\obj\Debug\juegoNums.csproj.CoreCompileInputs.cache
+C:\Users\A1\source\repos\juegoNums\juegoNums\obj\Debug\juegoNums.exe
+C:\Users\A1\source\repos\juegoNums\juegoNums\obj\Debug\juegoNums.pdb
